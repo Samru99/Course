@@ -1,0 +1,5 @@
+print("Hi I am Samruddhi Salunkhe")
+print("My Favorite module would be Graphs & Graph Algorithms")
+print("I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.")
+print("I learnt how to do BFS and DFS traversals on a graph.")
+print("I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.")
